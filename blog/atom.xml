@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://neozap.github.io/241saurus/blog/</id>
     <title>241saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-04-18T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://neozap.github.io/241saurus/blog/"/>
     <subtitle>241saurus Blog</subtitle>
     <icon>https://neozap.github.io/241saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://neozap.github.io/241saurus/blog/POP-QUIZ/</id>
+        <link href="https://neozap.github.io/241saurus/blog/POP-QUIZ/"/>
+        <updated>2024-04-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Pop Quiz W07 - Blogposting]]></summary>
+        <content type="html"><![CDATA[<p>Pop Quiz W07 - Blogposting</p>
+<p>The Saga of Young Thorfinn in Vinland Saga</p>
+<p>Thorfinn is a young and determined warrior with a thirst for vengeance, driven by the desire to avenge his father's death at the hands of Askeladd, a cunning and ruthless Viking leader. Inspired by the Norse sagas and legends, Thorfinn sets out on a perilous journey across the Viking world, seeking to prove his strength and honor as a warrior.</p>
+<p>Vinland Saga is a gripping tale set in a world of war, politics, and adventure. The story unfolds against the backdrop of the Viking Age, a time of fierce battles, epic voyages, and larger-than-life characters. As Thorfinn navigates through the complexities of Viking society, he encounters allies and foes alike, each with their own ambitions and agendas.</p>
+<p>The plot begins with Thorfinn's childhood, growing up among the warriors of his father's band. His father, Thors, was a legendary warrior known for his skill and honor. However, tragedy strikes when Thors is betrayed and killed by Askeladd, setting Thorfinn on a path of vengeance that will define his destiny.</p>
+<p>What sets Vinland Saga apart is its gritty realism and portrayal of Viking life. The series delves into the harsh realities of war, the brutality of combat, and the moral dilemmas faced by its characters. Thorfinn's journey is not just a quest for revenge but also a quest for redemption and self-discovery.</p>
+<p>One of the strengths of Vinland Saga lies in its complex characters. Thorfinn evolves from a vengeful and reckless youth into a mature and introspective warrior as he confronts the harsh truths of his world. Characters like Askeladd, with their depth and motivations, add layers of intrigue and conflict to the narrative.</p>
+<p>Despite its dark themes of violence, betrayal, and loss, Vinland Saga also explores themes of honor, loyalty, and the search for a better future. The concept of Vinland, a mythical land of peace and prosperity, symbolizes hope and the desire for a better world beyond the cycle of revenge and conflict.</p>
+<p>In conclusion, Vinland Saga is a masterfully crafted saga that blends historical fiction with compelling storytelling. It offers a nuanced exploration of Viking culture, human nature, and the timeless themes of honor and redemption. For fans of epic adventures and intricate character dramas, Vinland Saga is a must-watch anime.</p>]]></content>
+        <author>
+            <name>Hue Tao</name>
+            <uri>https://github.com/NeoZap</uri>
+        </author>
+        <author>
+            <name>Xiaomao</name>
+            <uri>https://github.com/mm0ne</uri>
+        </author>
+        <category label="POPQUIZ" term="POPQUIZ"/>
+        <category label="WEEK07" term="WEEK07"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://neozap.github.io/241saurus/blog/welcome/</id>
